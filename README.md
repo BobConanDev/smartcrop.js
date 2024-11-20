@@ -40,7 +40,7 @@ Output:
 `npm install smartcrop`
 or just download [smartcrop.js](https://raw.githubusercontent.com/jwagner/smartcrop.js/master/smartcrop.js) from the git repository.
 
-smartcrop requires support for [Promises](http://caniuse.com/#feat=promises),
+Smartcrop requires support for [Promises](http://caniuse.com/#feat=promises),
 use a [polyfill](https://github.com/taylorhakes/promise-polyfill) for unsupported browsers or set `smartcrop.Promise` to your favorite promise implementation
 (I recommend [bluebird](http://bluebirdjs.com/)).
 
