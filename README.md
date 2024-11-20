@@ -40,7 +40,7 @@ Output:
 `npm install smartcrop`
 or just download [smartcrop.js](https://raw.githubusercontent.com/jwagner/smartcrop.js/master/smartcrop.js) from the git repository.
 
-Smarcrop requires support for [Promises](http://caniuse.com/#feat=promises),
+smartcrop requires support for [Promises](http://caniuse.com/#feat=promises),
 use a [polyfill](https://github.com/taylorhakes/promise-polyfill) for unsupported browsers or set `smartcrop.Promise` to your favorite promise implementation
 (I recommend [bluebird](http://bluebirdjs.com/)).
 
@@ -212,7 +212,7 @@ In other words, it's fine to run it on one image, it's suboptimal to run it on a
 - [smartcrop.go](https://github.com/muesli/smartcrop) by [Christian Muehlhaeuser](https://github.com/muesli)
 - [smartcrop.py](https://github.com/hhatto/smartcrop.py) by [Hideo Hattori](http://www.hexacosa.net/about/)
 - [smartcrop-rails](https://github.com/sadiqmmm/smartcrop-rails) smartcrop wrapped in a ruby gem by [Mohammed Sadiq](https://github.com/sadiqmmm/)
-- [smartcrop.net](https://github.com/softawaregmbh/smartcrop.net) c# .net port by [softaware gmbh](https://www.softaware.at/)
+- [smartcrop.net](https://github.com/softawaregmbh/smartcrop.net) c# .net port by [software gmbh](https://www.softaware.at/)
 - [dont-crop](https://github.com/jwagner/dont-crop/) a library to avoid cropping by padding images with matching colors or gradients
 
 ## Version history
